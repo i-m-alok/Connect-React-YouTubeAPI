@@ -21,13 +21,24 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color:black;
 }
 
 .App-link {
   color: #61dafb;
 }
 
+
+
+.card-width{
+  width: 18rem;
+}
+
+.description{
+  font-size: 0.8rem;
+  color: darkslategrey;
+   text-align: justify;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
